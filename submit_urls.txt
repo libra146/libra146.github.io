@@ -1,6 +1,3 @@
-https://blog.d77.xyz/archives/b59689bb.html
-https://blog.d77.xyz/archives/d1f57460.html
-https://blog.d77.xyz/archives/1dc407.html
 https://blog.d77.xyz/archives/e47a7f3c.html
 https://blog.d77.xyz/archives/586b93bb.html
 https://blog.d77.xyz/archives/773378ba.html
@@ -8,3 +5,6 @@ https://blog.d77.xyz/archives/f83ff2cd.html
 https://blog.d77.xyz/archives/1d475afe.html
 https://blog.d77.xyz/archives/7b69b6a.html
 https://blog.d77.xyz/archives/e83cc3ea.html
+https://blog.d77.xyz/archives/ff6a89c2.html
+https://blog.d77.xyz/archives/cae5c558.html
+https://blog.d77.xyz/archives/f036ccea.html
